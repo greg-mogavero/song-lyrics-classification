@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 *.docx
 *.pkl
+__pycache__
+*.log
+*.tmp
