@@ -12,3 +12,5 @@ In this project, I attempt to classify song lyrics by artist using an LSTM netwo
 * Keras 2.0.6 (with Theano backend)
 * Theano 0.9.0
 * jupyter 1.0.0
+
+The dataset that I use is included in the repository, but can also be found [here](https://www.kaggle.com/mousehead/songlyrics).
