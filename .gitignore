@@ -5,3 +5,4 @@ __pycache__
 *.log
 *.tmp
 *.h5
+*.zip
