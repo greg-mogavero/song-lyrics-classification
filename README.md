@@ -1,6 +1,4 @@
-# Udacity Machine Learning Engineer Nanodegree
-# Capstone Project
-## Song Lyric Classifier
+## Song Lyrics Classification
 ---
 
 ### Description
